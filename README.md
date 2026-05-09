@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Final Submission
 
 ## Public Blog Posts
@@ -30,3 +31,6 @@
 - `synthesis.md`
 - `canonical_list.md`
 - `portfolio_update.md`
+=======
+# -Knowledge_gap_formulation_pair_DAY_Three
+>>>>>>> a1c33a5ae770e8205ec9844a6932960d8c0cdd73
